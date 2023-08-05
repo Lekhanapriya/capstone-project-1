@@ -1,0 +1,250 @@
+.a{
+	height: 600px;
+	width: 1500px;
+	background-image: url("../images/ocean.jpg");
+	background-size: cover;
+}
+h1{
+	color: white
+}
+.b{
+	height: 100px;
+	width: 1500px;
+}
+.c{
+	height: 430px;
+	width: 1500px;
+}
+p{
+	color: white;
+}
+button{
+	height: 40px;
+	width: 100px;
+	background-color: white;
+	border-radius: 20px;
+
+}
+.d{
+	height: 200px;
+	width: 1500px;
+	background-color: black;
+
+}
+.e{
+	height: 50px;
+	width: 1500px;
+}
+.f{
+	height: 150px;
+	width: 1500px;
+}
+.g{
+	height: 600px;
+	width: 1500px;
+	background-color: black;
+}
+.h{
+	height: 500px;
+	width: 400px;
+	background-color: blue;
+	float: left;
+	margin-top:40px;
+	margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+    background-image: url("../images/fi.jpg");
+	background-size: cover;
+}
+.k{
+	height: 200px;
+	width: 300px;
+}
+.l{
+	height: 200px;
+	width: 300px;
+}
+.i{
+	height: 500px;
+	width: 400px;
+	background-color: orange;
+	float: left;
+	margin-top:40px;
+	margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+	background-image: url("../images/monkey.jpg");
+	background-size: cover;
+}
+.m{
+	height: 200px;
+	width: 300px;
+}
+.n{
+	height: 200px;
+	width: 300px;
+}
+.j{
+	height: 500px;
+	width: 400px;
+	background-color: green;
+	float: left;
+	margin-top:40px;
+	margin-bottom: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+	background-image: url("../images/l.jpg");
+	background-size: cover;
+}
+.o{
+	height: 200px;
+	width: 300px;
+}
+.p{
+	height: 200px;
+	width: 300px;
+}
+.q{
+	height: 700px;
+	width: 1500px;
+	background-image: url("../images/elephantt.jpg");
+	background-size: cover;
+}
+.r{
+	height: 400px;
+	width: 1500px;
+}
+.s{
+	height: 300px;
+	width: 1500px;
+}
+.t{
+	height: 350px;
+	width: 1500px;
+	background-color: black;
+}	
+.u{
+	height: 600px;
+	width: 1500px;
+	background-color: pink;
+	background-image: url("../images/ho.jpg");
+	background-size: cover;
+}
+.v{
+	height: 500px;
+	width: 1500px;
+	background-color: black;
+}
+.w{
+	height: 400px;
+	width: 600px;
+	background-color: white;
+	float: left;
+	margin-top:40px;
+	margin-bottom: 40px;
+	margin-right: 100px;
+	margin-left: 100px;
+	background-image: url("../images/penguin.jpg");
+	background-size: cover;
+}
+.x{
+	height: 400px;
+	width: 600px;
+	background-color: blue;
+	float: left;
+	margin-top:40px;
+	margin-bottom: 40px;
+	margin-right: 60px;
+	margin-left: 40px;
+	background-image: url("../images/octopus.jpg");
+	background-size: cover;
+}
+.y{
+	height: 200px;
+	width: 1500px;
+	background-color: black;
+}
+.z{
+	height: 400px;
+	width: 1500px;
+	background-color: black;
+}
+.aa{
+	height: 300px;
+	width: 300px;
+	background-color: pink;
+	float:left;
+	margin-top:50px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+	margin-left: 120px;
+	background-image: url("../images/plant.jpg");
+	background-size: cover;
+}
+.bb{
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	float:left;
+	margin-top:50px;
+	margin-bottom: 40px;
+	margin-right: 10px;
+	margin-left: 1px;
+	background-image: url("../images/e.jpg");
+	background-size: cover;
+}
+.cc{
+	height: 300px;
+	width: 300px;
+	background-color: orange;
+	float:left;
+	margin-top:50px;
+	margin-bottom: 40px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url("../images/mon.jpg");
+	background-size: cover;
+}
+.dd{
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	float:left;
+	margin-top:50px;
+	margin-bottom: 40px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url("../images/w.jpg");
+	background-size: cover;
+}
+.ee{
+	height: 200px;
+	width: 1500px;
+	background-color: yellow;
+}
+.ff{
+	height: 200px;
+	width: 500px;
+	background-color: black;
+	float: left;
+}
+.gg{
+	height: 200px;
+	width: 500px;
+	background-color: black;
+	float: left;
+}
+.hh{
+	height: 200px;
+	width: 500px;
+	background-color: black;
+	float: left;
+}
+h3{
+	color:white;
+}
+.ii{
+	height: 100px;
+	width: 1500px;
+	background-color: grey;
+}
